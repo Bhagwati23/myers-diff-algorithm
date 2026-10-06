@@ -1,0 +1,7 @@
+# This is a student's Myers diff assignment (Assignment 1).
+# Only the files under src/ are the student's own work.
+# The professor placed this file (myers.toml) and the samples/ folder.
+# Questions about the student's code should come from the files in src/.
+# The grader reads the language below. Do not edit or delete this file.
+# The language is "python", "java" or "cpp".
+language = "java"
